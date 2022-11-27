@@ -10,7 +10,7 @@
   },
   "name": "api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "cross-env NODE_ENV=production node app",
     "dev": "cross-env NODE_ENV=development nodemon -e js,ejs app"
